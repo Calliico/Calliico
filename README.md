@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @Calliico aka Garrett
-- 👀 I’m interested in servers and self-hosted services
-- 🌱 I’m currently learning Plex Media Server Automation and File Storage Systems/Hardware
-- 📫 How to reach me? I'll figure this out later for the time being. 
+### Garrett Williams (Calliico) :wave:
 
-<!---
-Calliico/Calliico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 A guy who's trying to learn how to be a Network Engineer.
+- 🐮 Located in San Antonio, TX
+- 🏠 https://catcables.tech
+
+### Get in touch 📧
+
+- [Twitter](https://twitter.com/Calliico)
+- [LinkedIn](www.linkedin.com/in/calliico)
+- [Website](https://catcables.tech)
+
+⭐️ From [solrevdev](https://github.com/calliico)
