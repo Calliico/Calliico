@@ -10,4 +10,4 @@
 - [LinkedIn](www.linkedin.com/in/calliico)
 - [Website](https://catcables.tech)
 
-⭐️ From [solrevdev](https://github.com/calliico)
+⭐️ From [Calliico](https://github.com/calliico)
