@@ -7,7 +7,7 @@
 ### Get in touch 📧
 
 - [Twitter](https://twitter.com/Calliico)
-- [LinkedIn](www.linkedin.com/in/calliico)
+- [LinkedIn](https://www.linkedin.com/in/Calliico)
 - [Website](https://catcables.tech)
 
 ⭐️ From [Calliico](https://github.com/calliico)
